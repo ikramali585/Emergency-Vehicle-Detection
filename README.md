@@ -53,7 +53,7 @@ To run the project:
 2. Follow the steps in the notebook to download the dataset, visualize the data, train the model, and make inferences.
 
 ```bash
-jupyter notebook Emergency_Vehicle_Detection.ipynb
+jupyter notebook detection_emergencyvehicals_yolov5.ipynb
 ```
 
 ## Results
